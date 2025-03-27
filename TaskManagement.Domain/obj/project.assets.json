@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\3-pnr\\Shared\\TaskManagementSystem\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
+      "projectUniqueName": "C:\\dev\\TaskManagementSystem\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
       "projectName": "TaskManagement.Domain",
-      "projectPath": "\\\\3-pnr\\Shared\\TaskManagementSystem\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
+      "projectPath": "C:\\dev\\TaskManagementSystem\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
       "packagesPath": "C:\\Users\\Superstar\\.nuget\\packages\\",
-      "outputPath": "\\\\3-pnr\\Shared\\TaskManagementSystem\\TaskManagement.Domain\\obj\\",
+      "outputPath": "C:\\dev\\TaskManagementSystem\\TaskManagement.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

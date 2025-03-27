@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8VqmlYciGBtFoNVXavAtpTqaMETRYJw/4KJ9f3FlyLtquQnDqs4pGvG5GGfFfGPcf1SzTbXaPFR79SbXMIe1Vg==",
+  "dgSpecHash": "rnSS2uhdwikZrScqv9U9YlL90MyCwxPnZnjrPK2ezzEoZOjVs+3sai/OEUWh/Woh9yL5ELCGfVHXRs74Vk2tEA==",
   "success": true,
-  "projectFilePath": "\\\\3-pnr\\Shared\\TaskManagementSystem\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
+  "projectFilePath": "C:\\dev\\TaskManagementSystem\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
