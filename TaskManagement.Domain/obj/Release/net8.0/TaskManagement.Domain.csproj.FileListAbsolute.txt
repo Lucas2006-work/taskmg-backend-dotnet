@@ -1,0 +1,11 @@
+C:\dev\TaskManagementSystem\TaskManagement.Domain\bin\Release\net8.0\TaskManagement.Domain.deps.json
+C:\dev\TaskManagementSystem\TaskManagement.Domain\bin\Release\net8.0\TaskManagement.Domain.dll
+C:\dev\TaskManagementSystem\TaskManagement.Domain\bin\Release\net8.0\TaskManagement.Domain.pdb
+C:\dev\TaskManagementSystem\TaskManagement.Domain\obj\Release\net8.0\TaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TaskManagementSystem\TaskManagement.Domain\obj\Release\net8.0\TaskManagement.Domain.AssemblyInfoInputs.cache
+C:\dev\TaskManagementSystem\TaskManagement.Domain\obj\Release\net8.0\TaskManagement.Domain.AssemblyInfo.cs
+C:\dev\TaskManagementSystem\TaskManagement.Domain\obj\Release\net8.0\TaskManagement.Domain.csproj.CoreCompileInputs.cache
+C:\dev\TaskManagementSystem\TaskManagement.Domain\obj\Release\net8.0\TaskManagement.Domain.dll
+C:\dev\TaskManagementSystem\TaskManagement.Domain\obj\Release\net8.0\refint\TaskManagement.Domain.dll
+C:\dev\TaskManagementSystem\TaskManagement.Domain\obj\Release\net8.0\TaskManagement.Domain.pdb
+C:\dev\TaskManagementSystem\TaskManagement.Domain\obj\Release\net8.0\ref\TaskManagement.Domain.dll

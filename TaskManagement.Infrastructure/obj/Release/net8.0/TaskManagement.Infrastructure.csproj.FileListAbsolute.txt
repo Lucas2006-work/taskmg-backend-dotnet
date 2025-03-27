@@ -1,0 +1,17 @@
+C:\dev\TaskManagementSystem\TaskManagement.Infrastructure\bin\Release\net8.0\TaskManagement.Infrastructure.deps.json
+C:\dev\TaskManagementSystem\TaskManagement.Infrastructure\bin\Release\net8.0\TaskManagement.Infrastructure.runtimeconfig.json
+C:\dev\TaskManagementSystem\TaskManagement.Infrastructure\bin\Release\net8.0\TaskManagement.Infrastructure.dll
+C:\dev\TaskManagementSystem\TaskManagement.Infrastructure\bin\Release\net8.0\TaskManagement.Infrastructure.pdb
+C:\dev\TaskManagementSystem\TaskManagement.Infrastructure\bin\Release\net8.0\TaskManagement.Domain.dll
+C:\dev\TaskManagementSystem\TaskManagement.Infrastructure\bin\Release\net8.0\TaskManagement.Domain.pdb
+C:\dev\TaskManagementSystem\TaskManagement.Infrastructure\obj\Release\net8.0\TaskManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\dev\TaskManagementSystem\TaskManagement.Infrastructure\obj\Release\net8.0\TaskManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TaskManagementSystem\TaskManagement.Infrastructure\obj\Release\net8.0\TaskManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\dev\TaskManagementSystem\TaskManagement.Infrastructure\obj\Release\net8.0\TaskManagement.Infrastructure.AssemblyInfo.cs
+C:\dev\TaskManagementSystem\TaskManagement.Infrastructure\obj\Release\net8.0\TaskManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\dev\TaskManagementSystem\TaskManagement.Infrastructure\obj\Release\net8.0\TaskManagement.Infrastructure.csproj.CopyComplete
+C:\dev\TaskManagementSystem\TaskManagement.Infrastructure\obj\Release\net8.0\TaskManagement.Infrastructure.dll
+C:\dev\TaskManagementSystem\TaskManagement.Infrastructure\obj\Release\net8.0\refint\TaskManagement.Infrastructure.dll
+C:\dev\TaskManagementSystem\TaskManagement.Infrastructure\obj\Release\net8.0\TaskManagement.Infrastructure.pdb
+C:\dev\TaskManagementSystem\TaskManagement.Infrastructure\obj\Release\net8.0\TaskManagement.Infrastructure.genruntimeconfig.cache
+C:\dev\TaskManagementSystem\TaskManagement.Infrastructure\obj\Release\net8.0\ref\TaskManagement.Infrastructure.dll

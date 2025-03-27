@@ -1,2 +1,7 @@
 /.vs
 /obj
+/TaskManagement.API/bin
+/TaskManagement.Application/bin
+/TaskManagement.Domain/bin
+/TaskManagement.Infrastructure/bin
+/TaskManagement.Worker/bin

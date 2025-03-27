@@ -1,0 +1,15 @@
+C:\dev\TaskManagementSystem\TaskManagement.Application\bin\Release\net8.0\TaskManagement.Application.deps.json
+C:\dev\TaskManagementSystem\TaskManagement.Application\bin\Release\net8.0\TaskManagement.Application.dll
+C:\dev\TaskManagementSystem\TaskManagement.Application\bin\Release\net8.0\TaskManagement.Application.pdb
+C:\dev\TaskManagementSystem\TaskManagement.Application\bin\Release\net8.0\TaskManagement.Domain.dll
+C:\dev\TaskManagementSystem\TaskManagement.Application\bin\Release\net8.0\TaskManagement.Domain.pdb
+C:\dev\TaskManagementSystem\TaskManagement.Application\obj\Release\net8.0\TaskManagement.Application.csproj.AssemblyReference.cache
+C:\dev\TaskManagementSystem\TaskManagement.Application\obj\Release\net8.0\TaskManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TaskManagementSystem\TaskManagement.Application\obj\Release\net8.0\TaskManagement.Application.AssemblyInfoInputs.cache
+C:\dev\TaskManagementSystem\TaskManagement.Application\obj\Release\net8.0\TaskManagement.Application.AssemblyInfo.cs
+C:\dev\TaskManagementSystem\TaskManagement.Application\obj\Release\net8.0\TaskManagement.Application.csproj.CoreCompileInputs.cache
+C:\dev\TaskManagementSystem\TaskManagement.Application\obj\Release\net8.0\TaskManagement.Application.csproj.CopyComplete
+C:\dev\TaskManagementSystem\TaskManagement.Application\obj\Release\net8.0\TaskManagement.Application.dll
+C:\dev\TaskManagementSystem\TaskManagement.Application\obj\Release\net8.0\refint\TaskManagement.Application.dll
+C:\dev\TaskManagementSystem\TaskManagement.Application\obj\Release\net8.0\TaskManagement.Application.pdb
+C:\dev\TaskManagementSystem\TaskManagement.Application\obj\Release\net8.0\ref\TaskManagement.Application.dll
